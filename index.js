@@ -13,5 +13,5 @@ function writeCards(array, surprise) {
       console.log(num--);
     }
   }
-  countDown(10);
+  countDown(10); 
   
